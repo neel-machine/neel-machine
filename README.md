@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am an aspiring data science enthusiast, in my final year of post graduation. I am pursuing Master's in ML/AI and this portfolio contains my personal projects for learning,building and analysing all things that are machine learning and AI. 
+
+
+
 <!--
 **neel-machine/neel-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
