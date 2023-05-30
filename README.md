@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 , Welcome to my Github profile.
 
-I am an aspiring data science enthusiast, in my final year of post graduation. I am pursuing Master's in ML/AI and this portfolio contains my personal projects for learning,building and analysing all things that are machine learning and AI. 
+I am Neelima , currently pursuing Master's in ML/AI at Liverpool John Moores University. This account consists of some ML/AI projects I have done ,check out my [Portfolio](https://github.com/neel-machine/Portfolio/tree/main) for the gist. (I am updating the portfolio at present).
 
+In my free time I listen to music, try to workout regularly :smiley: and spend time hanging out with friends and family.
 
 
 <!--
