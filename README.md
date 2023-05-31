@@ -1,6 +1,6 @@
 ### Hi there 👋 , Welcome to my Github profile.
 
-I am Neelima , currently pursuing Master's in ML/AI at Liverpool John Moores University. This account consists of some ML/AI projects I have done ,check out my [Portfolio](https://github.com/neel-machine/Portfolio/tree/main) for the gist. (I am updating the portfolio at present).
+I am Neelima , currently pursuing Master's in ML/AI at Liverpool John Moores University. This account consists of some ML/AI projects I have done ,check out my [Portfolio](https://neel-machine.github.io/project_portfolio/) for the gist. (I am updating the portfolio at present).
 
 In my free time I listen to music, try to workout regularly :smiley: and spend time hanging out with friends and family.
 
